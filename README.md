@@ -6,12 +6,12 @@ git clone https://github.com/wolfian/picsta.git
 ```
 
 ### Setting and running server
-####Move to server directory
+Move to server directory
 ```
 cd server
 ```
 
-####Install the dependencies
+Install the dependencies
 ```
 npm install
 ```
@@ -20,7 +20,7 @@ or
 yarn
 ```
 
-####Start the server
+Start the server
 ``` 
 npm start
 ```
@@ -31,12 +31,12 @@ yarn start
 
 
 ### Setting and running client
-####Move to client directory
+Move to client directory
 ```
 cd client
 ```
 
-####Install the dependencies
+Install the dependencies
 ```
 npm install
 ```
@@ -45,7 +45,7 @@ or
 yarn
 ```
 
-####Run the app
+Run the app
 ```
 npm start
 ```
