@@ -1,5 +1,7 @@
 # picsta
 
+![App screenshot](https://raw.githubusercontent.com/wolfian/picsta/main/Screenshot_2021-01-14_12-52-11.png?raw=true)
+
 ## Instructions
 ```
 git clone https://github.com/wolfian/picsta.git
